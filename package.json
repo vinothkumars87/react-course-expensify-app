@@ -59,7 +59,7 @@
     "json5": "^0.5.1",
     "kind-of": "^3.2.2",
     "live-server": "^1.2.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "loose-envify": "^1.4.0",
     "map-cache": "^0.2.2",
     "map-visit": "^1.0.0",
